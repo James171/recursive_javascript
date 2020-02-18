@@ -1,6 +1,6 @@
 x = prompt("Pick a starting number: ");
 
-y = prompt("Pick a ending number: ");
+y = prompt("Pick an ending number: ");
 
 while(x > y){
 y = prompt("Please pick a larger number: ");
